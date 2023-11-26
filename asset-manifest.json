@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9bb0822.css",
+    "main.js": "/static/js/main.a0f513bb.js",
+    "static/media/Томат kg.mp4": "/static/media/Томат kg.ca5c3c562d6c42b73300.mp4",
+    "static/media/offer_tomatoes.jpg": "/static/media/offer_tomatoes.6a6e6486badafd0d2869.jpg",
+    "static/media/proizvodstvo-tomat-kyrgyzstan.jpg": "/static/media/proizvodstvo-tomat-kyrgyzstan.5608246edf91ef05d34c.jpg",
+    "static/media/proizvodstvo-tomat-kyrgyzstan-2.jpg": "/static/media/proizvodstvo-tomat-kyrgyzstan-2.73b3ad1ee267686669e2.jpg",
+    "static/media/logo.ico": "/static/media/logo.1e5e9d3ef9d808a09fee.ico",
+    "index.html": "/index.html",
+    "main.b9bb0822.css.map": "/static/css/main.b9bb0822.css.map",
+    "main.a0f513bb.js.map": "/static/js/main.a0f513bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9bb0822.css",
+    "static/js/main.a0f513bb.js"
+  ]
+}
